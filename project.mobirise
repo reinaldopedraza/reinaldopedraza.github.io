@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction",
+    "currentPage": "Full Gallery.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "Home Page": {
+    "Index.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -274,7 +274,7 @@
         }
       ]
     },
-    "Introduction": {
+    "Introduction.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
@@ -652,7 +652,7 @@
         }
       ]
     },
-    "Gallery": {
+    "Gallery.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
@@ -944,7 +944,7 @@
         }
       ]
     },
-    "Contact": {
+    "Contact.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
@@ -1119,7 +1119,7 @@
         }
       ]
     },
-    "Full Gallery": {
+    "Full Gallery.html": {
       "settings": {
         "title": "",
         "meta_descr": "",
