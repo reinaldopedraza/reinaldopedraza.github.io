@@ -666,6 +666,11 @@ h6,
 #header3-2g H3 {
   color: #232323;
 }
+#content8-3e .mbr-section-title,
+#content8-3e p {
+  text-align: right;
+  color: #fff;
+}
 #header3-2y .mbr-section-title,
 #header3-2y .mbr-section-subtitle {
   text-align: center;
