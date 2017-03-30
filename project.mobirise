@@ -156,7 +156,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/illustrator-certification-2000x1542.jpg",
+                "image": "@PROJECT_PATH@/assets/images/illustrator%20certification-2000x1542.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -497,7 +497,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flower-fix-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flower-fix-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flower%20fix-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -787,7 +787,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/black-and-white-landing-page-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/black%20and%20white%20landing%20page-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -923,7 +923,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/web-poster-panel-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/web-poster-panel-2000x2962.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web%20poster%20panel-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -933,7 +933,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/company-logo-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/company-logo-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/company%20logo-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -943,7 +943,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/photo-retouching-for-website-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-retouching-for-website-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo%20retouching%20for%20website-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -953,7 +953,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/reinaldo-pedraza-wynwood-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/reinaldo-pedraza-wynwood-2000x2962.jpg",
+                "image": "@PROJECT_PATH@/assets/images/reinaldo%20pedraza%20wynwood-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -963,7 +963,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/innovate-piece-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/innovate-piece-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/innovate%20piece-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -973,7 +973,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/google-doodle-for-web-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/google-doodle-for-web-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/google%20doodle%20for%20web-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -983,7 +983,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/postcard-for-web-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/postcard-for-web-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/postcard%20for%20web-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -993,7 +993,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/banner-for-web-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/banner-for-web-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/banner%20for%20web-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1262,7 +1262,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-0220-1400x933.jpg",
+              "src": "file:///C:/Users/0124998/AppData/Local/Mobirise.com/Mobirise/projectData/img-0220-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1731,7 +1731,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-1-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%201-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1745,7 +1745,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-2-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%202-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1759,7 +1759,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-3-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%203-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1773,7 +1773,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-4-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%204-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1787,7 +1787,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-5-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%205-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1801,7 +1801,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-6-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%206-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1815,7 +1815,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-7-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%207-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1829,7 +1829,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/art-piece-8-2000x2400.png",
+                "image": "@PROJECT_PATH@/assets/images/art%20piece%208-2000x2400.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
