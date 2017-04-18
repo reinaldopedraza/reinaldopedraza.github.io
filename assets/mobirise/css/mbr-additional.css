@@ -666,6 +666,10 @@ h6,
 #header3-2g H3 {
   color: #232323;
 }
+#msg-box8-3o .mbr-section-title,
+#msg-box8-3o p {
+  color: #fff;
+}
 #contacts1-39 P {
   text-align: left;
 }
