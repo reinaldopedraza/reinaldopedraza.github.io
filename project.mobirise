@@ -838,7 +838,7 @@
           },
           "title": "Imagine Dragons Competition",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=v8gqqkwwpk4\" data-toolbar=\"-mbrBtnMove\">Imagine Dragon - Believer</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.youtube.com/watch?v=v8gqqkwwpk4\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Imagine Dragon - Believer</a>"
         },
         {
           "_tags": [
