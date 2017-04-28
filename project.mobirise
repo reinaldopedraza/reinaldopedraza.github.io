@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 133,
+    "uniqCompNum": 134,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
@@ -717,7 +717,7 @@
               "src": "@PROJECT_PATH@/assets/images/signature-2-103x128-89-103x128-103x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "Introduction.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -787,7 +787,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/black-and-white-landing-page-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/face-shatter-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -805,6 +805,70 @@
           "title": "Reinaldo Pedraza",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Welcome</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "header2-3p",
+          "_params": {
+            "imageSize": "55",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-0220-1400x933-2.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Biography",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;I am part of the future generation of Computer Engineers, Digital Designers, and a future buisness owner. Over the years I have grown attached to digital media, whether thats designing my own logo all the way to the hardware that makes this digital world a possibility.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
         },
         {
           "_styles": {
@@ -1285,7 +1349,7 @@
               "size": 250
             }
           },
-          "title": "WHO AM I",
+          "title": "Biography",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;I am part of the future generation of Computer Engineers, Digital Designers, and a future buisness owner. Over the years I have grown attached to digital media, whether thats designing my own logo all the way to the hardware that makes this digital world a possibility.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Introduction#content7-m\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a>"
         },

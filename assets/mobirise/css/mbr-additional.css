@@ -598,6 +598,7 @@ h6,
 #ext_menu-26 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #ext_menu-26 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -665,6 +666,15 @@ h6,
 }
 #header3-2g H3 {
   color: #232323;
+}
+#header2-3p .mbr-section-title {
+  color: #000000;
+}
+#header2-3p .mbr-section-text {
+  color: #000000;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
 }
 #msg-box8-3o .mbr-section-title,
 #msg-box8-3o p {
